@@ -7,12 +7,14 @@
 ## Install
 
 ```bash
-yarn add --save @iyaroslav/play-pause-button
+yarn add @iyaroslav/play-pause-button
 # or
 npm install --save @iyaroslav/play-pause-button
 ```
 
 ## Usage
+
+[Demo](https://iyaroslav.github.io/play-pause-button/)
 
 ```tsx
 import React, { Component } from 'react'
