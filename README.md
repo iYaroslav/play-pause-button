@@ -7,7 +7,9 @@
 ## Install
 
 ```bash
-npm install --save play-pause-button
+yarn add --save @iyaroslav/play-pause-button
+# or
+npm install --save @iyaroslav/play-pause-button
 ```
 
 ## Usage
@@ -15,12 +17,24 @@ npm install --save play-pause-button
 ```tsx
 import React, { Component } from 'react'
 
-import MyComponent from 'play-pause-button'
-import 'play-pause-button/dist/index.css'
+import PlayButton from '@iyaroslav/play-pause-button'
+import '@iyaroslav/play-pause-button/dist/index.css'
 
 class Example extends Component {
+  const buttonRef = useRef(null)
+
+  // buttonRef.play()
+  // buttonRef.pause()
+  // buttonRef.toggle()
+  // buttonRef.isPaused()
+
   render() {
-    return <MyComponent />
+    return <PlayButton
+        ref={buttonRef}
+        onPlay={() => {}}
+        onPause={() => {}}
+        onToggle={() => {}}
+    />
   }
 }
 ```
