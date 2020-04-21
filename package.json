@@ -4,7 +4,7 @@
   "description": "Made with create-react-library",
   "author": "iYaroslav",
   "license": "MIT",
-  "repository": "iYaroslav/play-pause-button",
+  "repository": "https://github.com/iYaroslav/play-pause-button",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.tsx",

@@ -1,5 +1,7 @@
 # play-pause-button
 
+YouTube like responsive play/pause button
+
 > Made with create-react-library
 
 [![NPM](https://img.shields.io/npm/v/@iyaroslav/play-pause-button.svg)](https://www.npmjs.com/package/@iyaroslav/play-pause-button) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
@@ -11,6 +13,12 @@ yarn add @iyaroslav/play-pause-button
 # or
 npm install --save @iyaroslav/play-pause-button
 ```
+
+## Intro
+
+<p align="center">
+  <img width="600" src="https://raw.githubusercontent.com/iYaroslav/play-pause-button/master/media/example.png">
+</p>
 
 ## Usage
 
