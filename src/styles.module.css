@@ -1,5 +1,5 @@
 :root {
-  --ys-play-pause-button-color: #FFF;
+  --ys-foreground: #FFF;
 }
 
 .button {
@@ -17,7 +17,7 @@
   height: 100%;
 }
 .button svg path {
-  fill: var(--ys-play-pause-button-color);
+  fill: var(--ys-foreground);
   stroke-linecap: round;
   stroke-linejoin: round;
   transition: 0.218s;
@@ -42,33 +42,3 @@
   left: auto;
   right: 0;
 }
-
-
-/*.button.playing:before {*/
-/*  height: 100%;*/
-/*  border-top: 0 solid transparent;*/
-/*  border-left: 14px solid var(--ys-play-pause-button-color);*/
-/*  border-bottom: 0 solid transparent;*/
-/*}*/
-
-/*.button.playing:after {*/
-/*  height: 50px;*/
-/*  border-top: 0 solid transparent;*/
-/*  border-left: 14px solid var(--ys-play-pause-button-color);*/
-/*  border-bottom: 0 solid transparent;*/
-/*}*/
-
-/*.button.paused:before {*/
-/*  height: 30px;*/
-/*  border-top: 10px solid transparent;*/
-/*  border-left: 14px solid var(--ys-play-pause-button-color);*/
-/*  border-bottom: 10px solid transparent;*/
-/*}*/
-
-/*.button.paused:after {*/
-/*  height: 0;*/
-/*  border-top: 15px solid transparent;*/
-/*  border-left: 22px solid var(--ys-play-pause-button-color);*/
-/*  border-bottom: 15px solid transparent;*/
-/*  transform: translateX(-4px) translateY(10px) translateZ(0);*/
-/*}*/
