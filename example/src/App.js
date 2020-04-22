@@ -15,7 +15,8 @@ const App = () => {
         height: '20rem',
         borderRadius: '5rem',
         background: '#e62117',
-        margin: '1.6rem auto'
+        margin: '1.6rem auto',
+        opacity: 1
       }}
       state='playing'
       onPlay={() => console.log('2 Play')}
