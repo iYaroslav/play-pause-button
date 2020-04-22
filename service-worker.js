@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/play-pause-button/precache-manifest.95309382e3d24aab2cbec7b9a326bbc3.js"
+  "/play-pause-button/precache-manifest.bf8d8e9cd14ea660860246ac7bad401c.js"
 );
 
 self.addEventListener('message', (event) => {
