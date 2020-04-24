@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7116d72b56bfadd317b67b8d9f13b4b4",
+    "revision": "e74f2e908118a051cdf511f467350b75",
     "url": "/play-pause-button/index.html"
   },
   {
-    "revision": "d1a2652f9d091256c42d",
-    "url": "/play-pause-button/static/css/main.bee3dd27.chunk.css"
+    "revision": "89260b9acea9962708c0",
+    "url": "/play-pause-button/static/css/main.3a17c8d5.chunk.css"
   },
   {
     "revision": "f25abe8a3412a27f5574",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/play-pause-button/static/js/2.24e698c2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d1a2652f9d091256c42d",
-    "url": "/play-pause-button/static/js/main.ce3774af.chunk.js"
+    "revision": "89260b9acea9962708c0",
+    "url": "/play-pause-button/static/js/main.18af0e91.chunk.js"
   },
   {
     "revision": "0e15c53378ca579d668d",

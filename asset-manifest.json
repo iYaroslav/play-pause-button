@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/play-pause-button/static/css/main.bee3dd27.chunk.css",
-    "main.js": "/play-pause-button/static/js/main.ce3774af.chunk.js",
-    "main.js.map": "/play-pause-button/static/js/main.ce3774af.chunk.js.map",
+    "main.css": "/play-pause-button/static/css/main.3a17c8d5.chunk.css",
+    "main.js": "/play-pause-button/static/js/main.18af0e91.chunk.js",
+    "main.js.map": "/play-pause-button/static/js/main.18af0e91.chunk.js.map",
     "runtime-main.js": "/play-pause-button/static/js/runtime-main.c2fa2909.js",
     "runtime-main.js.map": "/play-pause-button/static/js/runtime-main.c2fa2909.js.map",
     "static/js/2.24e698c2.chunk.js": "/play-pause-button/static/js/2.24e698c2.chunk.js",
     "static/js/2.24e698c2.chunk.js.map": "/play-pause-button/static/js/2.24e698c2.chunk.js.map",
     "index.html": "/play-pause-button/index.html",
-    "precache-manifest.0b113fe9ebc35e3fe6f96520ba40ccee.js": "/play-pause-button/precache-manifest.0b113fe9ebc35e3fe6f96520ba40ccee.js",
+    "precache-manifest.6acbb056632faf28f6747d9d9d12edfc.js": "/play-pause-button/precache-manifest.6acbb056632faf28f6747d9d9d12edfc.js",
     "service-worker.js": "/play-pause-button/service-worker.js",
-    "static/css/main.bee3dd27.chunk.css.map": "/play-pause-button/static/css/main.bee3dd27.chunk.css.map",
+    "static/css/main.3a17c8d5.chunk.css.map": "/play-pause-button/static/css/main.3a17c8d5.chunk.css.map",
     "static/js/2.24e698c2.chunk.js.LICENSE.txt": "/play-pause-button/static/js/2.24e698c2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c2fa2909.js",
     "static/js/2.24e698c2.chunk.js",
-    "static/css/main.bee3dd27.chunk.css",
-    "static/js/main.ce3774af.chunk.js"
+    "static/css/main.3a17c8d5.chunk.css",
+    "static/js/main.18af0e91.chunk.js"
   ]
 }
